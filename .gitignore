@@ -1,2 +1,9 @@
 .venv
 .python-version
+.DS_Store
+*.pyc
+__pycache__
+*.db
+.vscode/
+*.png
+.env
